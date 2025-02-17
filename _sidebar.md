@@ -1,2 +1,3 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Giriş](README)
+- [Web Kullanımı](web-guide)
+- [Mobil Uygulama Kullanımı](mobile-guide)

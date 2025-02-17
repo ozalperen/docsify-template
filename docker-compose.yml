@@ -1,0 +1,8 @@
+version: "3"
+services:
+  docsify:
+    image: deepak93p/docsify
+    ports:
+      - "3004:3000"
+    volumes:
+      - ./:/docs
